@@ -1,6 +1,6 @@
 # Lagebeziehung Geraden (Positional relationship of straight lines)
 
-![screen0](https://github.com/Koenigseder/lagebeziehung-geraden/blob/master/screen0.png)
+<img src="https://github.com/Koenigseder/lagebeziehung-geraden/blob/master/screen0.png" alt="screen0" width=150 />
 
 With this app you are able to determine the positional relationship of two straight lines within a three-dimensional coordinate system. You only have to insert the general line equations and the app calculates their positional relationship.
 
