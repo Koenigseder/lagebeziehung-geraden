@@ -1,4 +1,4 @@
-# Lagebeziehung Geraden (Positional relationship of straight lines)
+# Lagebeziehung Geraden (Positional relationship of straight lines) <img src="https://github.com/Koenigseder/lagebeziehung-geraden/blob/master/app/src/main/ic_launcher-playstore.png" alt="logo" width=50 />
 
 <img src="https://github.com/Koenigseder/lagebeziehung-geraden/blob/master/screen0.png" alt="screen0" width=150 />
 
